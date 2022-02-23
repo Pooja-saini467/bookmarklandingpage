@@ -17,7 +17,7 @@
 - In this project i used to two different things one dark theme switcher, and second scrollreveal
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/bookmarklandingpage/blob/master/bookmark-landing-page-master/desktop-design.jpg?raw=true">
 
 ## Demo
 
